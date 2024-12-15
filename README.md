@@ -43,3 +43,7 @@ This project seeks to determine how features like `Predictive Plus-Minus` and `R
 - **R² (Coefficient of Determination)**: High values indicate a strong model fit.
 - **Mean Squared Error (MSE)**: Low values signify closer alignment between predicted and actual `Simple Average Error`.
 - **Feature Importance Analysis**: Identifies the most influential metrics for prediction accuracy.
+---
+ - "This README provides an overview of the project, details on the repository contents, a codebook for variables, and the success metrics used in the analysis. Feel free to contribute or raise any issues!"
+
+
